@@ -7,6 +7,7 @@ function HeaderBox() {
       <nav>
         <div className="inner">
           <h1>안녕하세요</h1>
+          <h2>반가워요</h2>
         </div>
       </nav>
     </header>
